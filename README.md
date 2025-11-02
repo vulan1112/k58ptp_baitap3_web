@@ -48,5 +48,9 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 ## BÀI LÀM
 
-## 1.Cài đặt môi trường linux: enable wsl: cài đặt docker desktop
+# 1.Cài đặt môi trường linux: enable wsl: cài đặt docker desktop
 
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/fac15cad-81c1-4b02-a3ae-e83f06d3bdb2" />
+
+# 2. Cài đặt Docker (nếu dùng docker desktop trên windows thì nó có ngay)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f9cc01d-5a10-412c-b242-78bdb8b76d8e" />
