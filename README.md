@@ -74,3 +74,9 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 *nodered/node-red (1880)*
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/79b376a6-7732-4c38-9813-2d0c50964073" />
+
+# 4. Lập trình web frontend+backend:
+
+ **4.2 Web IOT: Giám sát dữ liệu IOT.**
+   Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
+   
