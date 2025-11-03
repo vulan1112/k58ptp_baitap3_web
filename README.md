@@ -54,3 +54,23 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 # 2. Cài đặt Docker (nếu dùng docker desktop trên windows thì nó có ngay)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f9cc01d-5a10-412c-b242-78bdb8b76d8e" />
+
+# 3. Sử dụng 1 file docker-compose.yml để cài đặt các docker container sau: 
+   mariadb (3306), phpmyadmin (8080), nodered/node-red (1880), influxdb (8086), grafana/grafana (3000), nginx (80,443)
+
+<img width="1713" height="676" alt="image" src="https://github.com/user-attachments/assets/58c7b81a-f204-4d7a-b484-0f154b1f28ef" />
+
+*nginx (80,443)*
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/df2b743d-8f43-4ae7-87cd-d168a5f0e5ee" />
+
+*grafana/grafana (3000)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/264b020e-3e82-4f19-8208-bccb6265cd2f" />
+
+ *mariadb (3306)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d5afbf1-9a27-4373-a5a4-447a11aa2fa2" />
+
+*influxdb (8086)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc5ed0f4-78ba-4021-99a8-70c3f4d4e42e" />
+
+*nodered/node-red (1880)*
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/79b376a6-7732-4c38-9813-2d0c50964073" />
