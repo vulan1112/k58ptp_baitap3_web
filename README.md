@@ -89,5 +89,8 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
  Thông tin login lưu trong cơ sở dữ liệu của mariadb, được dev quản trị bằng phpmyadmin, yêu cầu sử dụng mã hoá khi gửi login.
  Chỉ cần login 1 lần, bao giờ logout thì mới phải login lại.
- 
+
+  - Có tính năng liệt kê các nhóm sản phẩm
+
+![Uploading image.png…]()
 
