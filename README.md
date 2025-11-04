@@ -77,6 +77,6 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 # 4. Lập trình web frontend+backend:
 
- **4.2 Web IOT: Giám sát dữ liệu IOT.**
+ ** 4.1 Web thương mại điện tử.**
    Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
    
