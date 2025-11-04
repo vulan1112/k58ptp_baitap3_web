@@ -139,3 +139,12 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 <img width="1897" height="741" alt="image" src="https://github.com/user-attachments/assets/680f59e9-9d13-4c40-a433-f78744b765e3" />
 
 <img width="1329" height="725" alt="image" src="https://github.com/user-attachments/assets/280f7c26-aae4-4532-ae5a-d77ddba31c67" />
+
+- Có tính năng dành cho admin: biểu đồ thống kê số lượng mặt hàng bán được trong từng ngày. (sử dụng grafana)
+
+<img width="1860" height="1080" alt="image" src="https://github.com/user-attachments/assets/21384672-8eff-48fa-9a87-4c447563ead7" />
+
+<img width="1526" height="979" alt="image" src="https://github.com/user-attachments/assets/a14026ee-b2bb-4138-ad64-f261815a929e" />
+
+- backend: sử dụng nodered xử lý request gửi lên từ javascript, phản hồi về json.
+
