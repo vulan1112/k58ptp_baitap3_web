@@ -78,9 +78,15 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 # 4. Lập trình web frontend+backend:
 
  ** 4.1 Web thương mại điện tử.**
-   Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
-   
-   Có tính năng login, lưu phiên đăng nhập vào cookie và session
-   Thông tin login lưu trong cơ sở dữ liệu của mariadb, được dev quản trị bằng phpmyadmin, yêu cầu sử dụng mã hoá khi gửi login.
+ - Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
+ - Có tính năng login, lưu phiên đăng nhập vào cookie và session
 
+<img width="1920" height="1073" alt="image" src="https://github.com/user-attachments/assets/43edb7b8-bb44-4320-9cca-de68cf04dae8" />
+
+
+ <img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/20948851-3465-47f1-9d73-1d1919faeddc" />
+
+ Thông tin login lưu trong cơ sở dữ liệu của mariadb, được dev quản trị bằng phpmyadmin, yêu cầu sử dụng mã hoá khi gửi login.
+ Chỉ cần login 1 lần, bao giờ logout thì mới phải login lại.
+ 
 
