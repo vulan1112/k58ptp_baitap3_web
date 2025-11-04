@@ -80,3 +80,6 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
  ** 4.1 Web thương mại điện tử.**
    Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
    
+   Có tính năng login, lưu phiên đăng nhập vào cookie và session
+   Thông tin login lưu trong cơ sở dữ liệu của mariadb, được dev quản trị bằng phpmyadmin, yêu cầu sử dụng mã hoá khi gửi login.
+
