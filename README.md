@@ -162,3 +162,5 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 <img width="1872" height="500" alt="image" src="https://github.com/user-attachments/assets/5a3bce85-25e0-4614-9895-bee1c160fbfa" />
 
  - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
+
+<img width="1412" height="1060" alt="image" src="https://github.com/user-attachments/assets/31be515e-8d8e-4f26-84d8-a86d538f93dd" />
