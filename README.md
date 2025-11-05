@@ -146,11 +146,6 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 <img width="1526" height="979" alt="image" src="https://github.com/user-attachments/assets/a14026ee-b2bb-4138-ad64-f261815a929e" />
 
-- backend: sử dụng nodered xử lý request gửi lên từ javascript, phản hồi về json.
-
-
-
-
 **5. Nginx làm web-server**
 
  - Cấu hình nginx để chạy được website qua url http://fullname.com  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
