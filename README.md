@@ -148,3 +148,11 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 - backend: sử dụng nodered xử lý request gửi lên từ javascript, phản hồi về json.
 
+
+
+
+
+
+
+![Uploading image.png…]()
+
