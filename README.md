@@ -148,15 +148,15 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 **5. Nginx làm web-server**
 
- - Cấu hình nginx để chạy được website qua url http://fullname.com  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
+ - Cấu hình nginx để chạy được website qua url http://vulan.com  
 
 <img width="1657" height="376" alt="image" src="https://github.com/user-attachments/assets/44f0d742-611b-4198-a895-7069cdd535fa" />
 
- - Cấu hình nginx để http://fullname.com/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
+ - Cấu hình nginx để http://vulan.com/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
 
 <img width="1872" height="500" alt="image" src="https://github.com/user-attachments/assets/5a3bce85-25e0-4614-9895-bee1c160fbfa" />
 
- - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
+ - Cấu hình nginx để http://vulan.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25d3a558-63ca-461b-927a-71dda320e10a" />
 
